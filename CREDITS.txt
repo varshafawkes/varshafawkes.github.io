@@ -1,9 +1,0 @@
-# Credits
-
-All images courtesy of Unsplash (https://unsplash.com).
-
-- Mathew Schwartz (https://unsplash.com/photos/7YiZKj9A3DM)
-- Jeremy Thomas (https://unsplash.com/photos/E0AHdsENmDg)
-
-Template started from 
-- https://templated.co/transitive
